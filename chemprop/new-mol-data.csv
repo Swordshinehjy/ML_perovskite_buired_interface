@@ -1,0 +1,3 @@
+SMILES,NAME,NumHAcceptors,NumHDonors,alkyl_num,frag_sym,HOMO_calc,LUMO_calc,dipole,MPI,surface_min,surface_max,TPSA,MolLogP,PSA,control_PCE,anchor_end_BA,anchor_end_CA,anchor_end_NO,anchor_end_PA,anchor_end_PO,anchor_end_SA,anchor_end_SH,anchor_end_SiO,MetalOxide_ITO,MetalOxide_NiOx,MetalOxide_SnO2,MetalOxide_TiO2,MetalOxide_ZnO
+O=P(O)(O)CCN1c2ccccc2Sc2ccccc21,PAPZ,3,2,2,1,-5.121563,-0.758256,1.843519,11.3092,-39.83471,55.38445,60.77,3.467,137.56,23.91,0,0,0,1,0,0,0,0,0,0,1,0,0
+O=P(O)(O)CCN1c2ccccc2S(=O)(=O)c2ccccc21,PAPZO,4,2,2,1,-6.139971,-1.410486,5.642262,15.19583,-42.66831,59.34802,94.91,2.1486,178.98,23.91,0,0,0,1,0,0,0,0,0,0,1,0,0
